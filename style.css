@@ -1,0 +1,28 @@
+* {
+    width: 400px;
+    margin: 0 auto;
+}
+body {
+    background-color: lightyellow;
+}
+
+.container {
+    background-color: rgb(207, 166, 90);
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+.darker-backround {
+    background-color: rgb(180, 138, 59);
+}
+
+a {
+    background-color: rgb(194, 185, 133);
+    color: black;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
